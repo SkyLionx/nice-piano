@@ -1,0 +1,6 @@
+[submodule "nice-piano-server"]
+	path = nice-piano-server
+	url = https://github.com/dotmat3/nice-piano-server
+[submodule "nice-piano-frontend"]
+	path = nice-piano-frontend
+	url = https://github.com/dotmat3/nice-piano-frontend
